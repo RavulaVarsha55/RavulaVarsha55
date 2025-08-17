@@ -1,4 +1,4 @@
-![Banner](https://github.com/RavulaVarsha55/RavulaVarsha55/blob/main/GitHub%20Banner%20New.png?raw=true)
+![Banner](https://github.com/RavulaVarsha55/RavulaVarsha55/blob/main/GitHub%20Banner.png?raw=true)
 
 ![](https://komarev.com/ghpvc/?username=RavulaVarsha55&style=for-the-badge&abbreviated=true)
 
@@ -12,7 +12,7 @@
 - 🚀I follow best practices in every build, ensure clean and scalable code.
 
 
-### 👉 <a href="https://github.com/Ravulavarsha55/Ravulavarsha55/raw/main/Salesforce%20Developer%20Varsha%20Ravula%20New.pdf" download="Resume Salesforce Developer Varsha Ravula">Click here</a> to download my Resume.
+### 👉 <a href="https://github.com/Ravulavarsha55/Ravulavarsha55/raw/main/Salesforce%20Developer%20Varsha%20Ravula.pdf" download="Resume Salesforce Developer Varsha Ravula">Click here</a> to download my Resume.
 
 ## 🎯 Skills
 - **`Salesforce Development:`** Apex (Triggers, Handler, Controller, Wrapper, Test, Frameworks), Asynchronous Apex (Future, Queueable, Batch), Error and Exception Handling, SOQL, SOSL, LWC (SLDS, Lightning Data Service, Lightning Message Service, Lifecycle Hooks, Shadow DOM), Aura Components, Visualforce Pages | Batch and Bulk Processing
@@ -22,8 +22,24 @@
 
 
 ## 📄 Certifications
-- <a href="https://drive.google.com/file/d/18UvSiHAefp3MOcrrs38-2xNqTDIoCJ9K/view?usp=sharing" target="_blank" title="View Credential">**`Salesforce Certified Platform Developer I`**</a>
-- <a href="https://drive.google.com/file/d/1fVWaRn1qv2IRvSz3gkli6iRBTroM8e6p/view?usp=sharing" target="_blank" title="View Credential">**`Salesforce Certified Administrator (SCA)`**</a>
+
+<img src="Assets/certifications/App.Builder.png" title="App Builder"
+                                class="w-24 mr-2 mb-2" />
+                            <img src="Assets/certifications/Programmer.I.png" title="Platform Developer 1"
+                                class="w-24 mr-2 mb-2" />
+                            <img src="Assets/certifications/Programmer.II.png" title="Platform Developer 2"
+                                class="w-24 mr-2 mb-2" />
+                            <img src="Assets/certifications/JavaScript.Developer.I.png" title="Javascript Developer 1"
+                                class="w-24 mr-2 mb-2" />
+                            <!-- Associate SF Certifications -->
+                            <div class="flex flex-wrap">
+                                <img src="Assets/certifications/agentforce_specialist.png"
+                                    title="Salesforce Agentforce Specialist" class="w-24 mr-2 mb-2" />
+                                <img src="Assets/certifications/AI.Associate.png" title="Salesforce AI Associate"
+                                    class="w-24 mr-2 mb-2" />
+                                <img src="Assets/certifications/Associate.png" title="Salesforce Associate"
+                                    class="w-24 mr-2 mb-2" />
+
 
 ## 🔗 Other Repositories:
 
