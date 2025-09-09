@@ -51,7 +51,7 @@
 ## 📫 Contact Me:
 
 - <a href="mailto:ravulavarsha55@gmail.com"><img src="https://github.com/Ravulavarsha55/Ravulavarsha55/assets/152521234/2f95583c-b3ca-487e-a19b-3de9e6a9a675" alt="Email" width="30" style="display: inline-block"/></a> <a href="mailto:ravulavarsha55@gmail.com" target="_blank" title="Varsha's Email">ravulavarsha55@gmail.com</a>
-- <a href="https://www.linkedin.com/in/varsha-ravula/"><img src="https://github.com/Ravulavarsha55/Ravulavarsha55/assets/152521234/01f9bd3b-5ae7-4918-a64a-0f10a9a388e4" alt="LinkedIn" width="30" style="display: inline-block"/></a> <a href="https://linkedin.com/in/khushal-ganani" target="_blank" title="Varsha's LinkedIn">linkedin.com/in/varsha-ravula</a>
+- <a href="https://www.linkedin.com/in/varsha-ravula/"><img src="https://github.com/Ravulavarsha55/Ravulavarsha55/assets/152521234/01f9bd3b-5ae7-4918-a64a-0f10a9a388e4" alt="LinkedIn" width="30" style="display: inline-block"/></a> <a href="https://linkedin.com/in/varsha-ravula" target="_blank" title="Varsha's LinkedIn">linkedin.com/in/varsha-ravula</a>
 - <a href="https://www.salesforce.com/trailblazer/varsharavula"><img src="https://github.com/Ravulavarsha55/Ravulavarsha55/assets/152521234/664d5190-d417-4818-a9af-056305be43c4" alt="Trailblazer Profile" width="30" style="display: inline-block"/></a> <a href="https://www.salesforce.com/trailblazer/varsharavula" target="_blank" title="Varsha's Trailblazer Profile">www.salesforce.com/trailblazer/varsharavula</a>
 
 ## 📊 GitHub Stats:
