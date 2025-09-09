@@ -1,4 +1,4 @@
-![Banner](https://github.com/RavulaVarsha55/RavulaVarsha55/blob/main/GitHub%20Banner.png?raw=true)
+![Banner](https://github.com/RavulaVarsha55/RavulaVarsha55/blob/main/GitHub%20banner.png?raw=true)
 
 ![](https://komarev.com/ghpvc/?username=RavulaVarsha55&style=for-the-badge&abbreviated=true)
 
