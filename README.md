@@ -1,4 +1,4 @@
-![Banner](https://github.com/RavulaVarsha55/RavulaVarsha55/blob/main/GitHub%20banner.png?raw=true)
+![Banner](https://github.com/RavulaVarsha55/RavulaVarsha55/GitHub%20banner.png?raw=true)
 
 ![](https://komarev.com/ghpvc/?username=RavulaVarsha55&style=for-the-badge&abbreviated=true)
 
@@ -25,20 +25,18 @@
 
 ## 📄 Certifications
 
-<div class="flex flex-wrap gap-4">
   <img src="Assets/certifications/App.Builder.png" 
-       alt="App Builder" class="h-24 object-contain" />
+       alt="App Builder" style="max-width: 220px;" class="h-24 object-contain" />
   <img src="Assets/certifications/Programmer.I.png" 
-       alt="Platform Developer 1" class="h-24 object-contain" />
+       alt="Platform Developer 1" style="max-width: 220px;" class="h-24 object-contain" />
   <img src="Assets/certifications/JavaScript.Developer.I.png" 
-       alt="JavaScript Developer 1" class="h-24 object-contain" />
+       alt="JavaScript Developer 1" style="max-width: 220px;" class="h-24 object-contain" />
   <img src="Assets/certifications/agentforce_specialist.png" 
-       alt="Agentforce Specialist" class="h-24 object-contain" />
+       alt="Agentforce Specialist" style="max-width: 220px;" class="h-24 object-contain" />
   <img src="Assets/certifications/AI.Associate.png" 
-       alt="AI Associate" class="h-24 object-contain" />
+       alt="AI Associate" style="max-width: 220px;" class="h-24 object-contain" />
   <img src="Assets/certifications/Associate.png" 
-       alt="Salesforce Associate" class="h-24 object-contain" />
-</div>
+       alt="Salesforce Associate" style="max-width: 220px;" class="h-24 object-contain" />
 
 
 ## 🔗 Other Repositories:
@@ -58,4 +56,5 @@
 <div align="center">
   <a href="javascript:void(0);" title="Varsha's Most Used Languages"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavulaVarsha55&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=donut" height="200" alt="Top Languages" /></a>
   <a href="javascript:void(0);" title="Varsha's GitHub Stats"><img src="https://github-readme-stats.vercel.app/api?username=RavulaVarsha55&show_icons=true&theme=nightowl&hide_rank=true" height="200" alt="GitHub Stats"  /></a>
+  <a href="javascript:void(0);" title="Varsha's GitHub Streak"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RavulaVarsha55&show_icons=true&theme=nightowl" height="200" alt="GitHub Stats"  /></a>
 </div>
