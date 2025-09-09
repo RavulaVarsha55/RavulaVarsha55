@@ -30,9 +30,9 @@
   <img src="Assets/certifications/Programmer.I.png" 
        alt="Platform Developer 1" style="max-width: 220px;" class="h-24 object-contain" />
   <img src="Assets/certifications/JavaScript.Developer.I.png" 
-       alt="JavaScript Developer 1" style="max-width: 220px;" class="h-24 object-contain" />
+       alt="JavaScript Developer 1" style="max-width: 50%;" class="h-24 object-contain" />
   <img src="Assets/certifications/agentforce_specialist.png" 
-       alt="Agentforce Specialist" style="max-width: 220px;" class="h-24 object-contain" />
+       alt="Agentforce Specialist" style="max-width: 50%;" class="h-24 object-contain" />
   <img src="Assets/certifications/AI.Associate.png" 
        alt="AI Associate" style="max-width: 220px;" class="h-24 object-contain" />
   <img src="Assets/certifications/Associate.png" 
