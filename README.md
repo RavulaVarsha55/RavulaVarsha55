@@ -2,8 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=RavulaVarsha55&style=for-the-badge&abbreviated=true)
 
-# Hi there, I'm Ravula Varsha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-#  A Salesforce Developer 💻 || A Color Enthusiast 🎨 
+# Hi there, I'm Ravula Varsha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  A Salesforce Developer 💻 || A Color Enthusiast 🎨 
 
 ## 🌟 About Me
 
@@ -27,17 +26,17 @@
 ## 📄 Certifications
 
 <img src="Assets/certifications/App.Builder.png" title="App Builder"
-                                class="w-24 mr-2 mb-2" />
+                                class="w-24 mr-2 mb-2" style="max-width: 40%;"/>
                             <img src="Assets/certifications/Programmer.I.png" title="Platform Developer 1"
-                                class="w-24 mr-2 mb-2" />
+                                class="w-24 mr-2 mb-2" style="max-width: 40%;"/>
                             <img src="Assets/certifications/JavaScript.Developer.I.png" title="Javascript Developer 1"
-                                class="w-24 mr-2 mb-2" />
+                                class="w-24 mr-2 mb-2" style="max-width: 40%;"/>
                                 <img src="Assets/certifications/agentforce_specialist.png"
                                     title="Salesforce Agentforce Specialist" class="w-24 mr-2 mb-2" />
                                 <img src="Assets/certifications/AI.Associate.png" title="Salesforce AI Associate"
-                                    class="w-24 mr-2 mb-2" />
+                                    class="w-24 mr-2 mb-2" style="max-width: 40%;" />
                                 <img src="Assets/certifications/Associate.png" title="Salesforce Associate"
-                                    class="w-24 mr-2 mb-2" />
+                                    class="w-24 mr-2 mb-2" style="max-width: 40%;"/>
 
 
 ## 🔗 Other Repositories:
@@ -53,7 +52,7 @@
 
 - <a href="https://www.linkedin.com/in/varsha-ravula/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 
-- <a href="https://www.salesforce.com/trailblazer/varsharavula"<img align=left src="https://img.shields.io/badge/Twitter-1DA1F2?&style=for-the-badge&logo=Twitter&logoColor=white"  title="Varsha's Trailblazer Profile"> </a>
+- <a href="https://www.salesforce.com/trailblazer/varsharavula"><img align=left src="https://img.shields.io/badge/Twitter-1DA1F2?&style=for-the-badge&logo=Twitter&logoColor=white"  title="Varsha's Trailblazer Profile" /> </a>
 
 ### 📊 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bacon-delight&theme=holi-theme)
 
