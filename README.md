@@ -24,21 +24,23 @@
 
 
 ## 📄 Certifications
-
+<div class="flex flex-wrap gap-4">
+  <div class="w-24 h-24 flex items-center justify-center border rounded-lg overflow-hidden bg-white p-2">
   <img src="Assets/certifications/App.Builder.png" 
-       alt="App Builder" style="max-width: 220px;" class="h-24 object-contain" />
+       alt="App Builder" class="max-h-full max-w-full object-contain block" />
   <img src="Assets/certifications/Programmer.I.png" 
-       alt="Platform Developer 1" style="max-width: 220px;" class="h-24 object-contain" />
+       alt="Platform Developer 1" class="max-h-full max-w-full object-contain block" />
   <img src="Assets/certifications/JavaScript.Developer.I.png" 
-       alt="JavaScript Developer 1" style="max-width: 50%;" class="h-24 object-contain" />
+       alt="JavaScript Developer 1" class="max-h-full max-w-full object-contain block"  />
   <img src="Assets/certifications/agentforce_specialist.png" 
-       alt="Agentforce Specialist" style="max-width: 50%;" class="h-24 object-contain" />
+       alt="Agentforce Specialist" class="max-h-full max-w-full object-contain block"  />
   <img src="Assets/certifications/AI.Associate.png" 
-       alt="AI Associate" style="max-width: 220px;" class="h-24 object-contain" />
+       alt="AI Associate" class="max-h-full max-w-full object-contain block" />
   <img src="Assets/certifications/Associate.png" 
-       alt="Salesforce Associate" style="max-width: 220px;" class="h-24 object-contain" />
-
-
+       alt="Salesforce Associate" class="max-h-full max-w-full object-contain block" />
+  </div>
+</div>
+  
 ## 🔗 Other Repositories:
 
 <div align="center">
