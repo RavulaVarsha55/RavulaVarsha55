@@ -24,23 +24,10 @@
 
 
 ## 📄 Certifications
-<div class="flex flex-wrap gap-4">
-  <div class="w-24 h-24 flex items-center justify-center border rounded-lg overflow-hidden bg-white p-2">
-  <img src="Assets/certifications/App.Builder.png" 
-       alt="App Builder" class="max-h-full max-w-full object-contain block" />
-  <img src="Assets/certifications/Programmer.I.png" 
-       alt="Platform Developer 1" class="max-h-full max-w-full object-contain block" />
-  <img src="Assets/certifications/JavaScript.Developer.I.png" 
-       alt="JavaScript Developer 1" class="max-h-full max-w-full object-contain block"  />
-  <img src="Assets/certifications/agentforce_specialist.png" 
-       alt="Agentforce Specialist" class="max-h-full max-w-full object-contain block"  />
-  <img src="Assets/certifications/AI.Associate.png" 
-       alt="AI Associate" class="max-h-full max-w-full object-contain block" />
-  <img src="Assets/certifications/Associate.png" 
-       alt="Salesforce Associate" class="max-h-full max-w-full object-contain block" />
-  </div>
-</div>
-  
+
+  ![Banner](https://github.com/RavulaVarsha55/RavulaVarsha55/blob/main/Github%20bannner.png?raw=true)
+
+
 ## 🔗 Other Repositories:
 
 <div align="center">
