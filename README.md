@@ -2,14 +2,14 @@
 
 ![](https://komarev.com/ghpvc/?username=RavulaVarsha55&style=for-the-badge&abbreviated=true)
 
-# Hi there, I'm Ravula Varsha 👋 <br> Salesforce Developer @ <a href="https://www.linkedin.com/company/absyz-ltd-/">**Absyz**</a> <br>        
+# Hi there, I'm Ravula Varsha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <br> Salesforce Developer @ <a href="https://www.linkedin.com/company/absyz-ltd-/">**Absyz**</a> <br>        
 
 ## 🌟 About Me
-- 🌟I'm a Salesforce Developer with a passion for learning and strong hands-on experience across projects of all scales—from enterprise implementations to focused feature enhancementshaving strong foundation in **Apex, Flows, LWC, Aura, automation logic,Integration, Administration and advanced debugging**.
+- 🌟 I'm a Salesforce Developer with a passion for learning and strong hands-on experience across projects of all scales—from enterprise implementations to focused feature enhancementshaving strong foundation in **Apex, Flows, LWC, Aura, automation logic,Integration, Administration and advanced debugging**.
 
-- 👋I love collaborating with a dynamic team and develop scalable solutions to meaningful projects which challenge and enhance my skills.
+- 👋 I love collaborating with a dynamic team and develop scalable solutions to meaningful projects which challenge and enhance my skills.
 
-- 🚀I follow best practices in every build, ensure clean and scalable code.
+- 🚀I  follow best practices in every build, ensure clean and scalable code.
 
 
 ### 👉 <a href="https://github.com/Ravulavarsha55/Ravulavarsha55/raw/main/Salesforce%20Developer%20Varsha%20Ravula.pdf" download="Resume Salesforce Developer Varsha Ravula">Click here</a> to download my Resume.
@@ -50,22 +50,13 @@
 
 ## 📫 Contact Me:
 
-- <a href="mailto:ravulavarsha55@gmail.com"><img src="https://github.com/Ravulavarsha55/Ravulavarsha55/assets/152521234/2f95583c-b3ca-487e-a19b-3de9e6a9a675" alt="Email" width="30" style="display: inline-block"/></a> <a href="mailto:ravulavarsha55@gmail.com" target="_blank" title="Varsha's Email">ravulavarsha55@gmail.com</a>
-- <a href="https://www.linkedin.com/in/varsha-ravula/"><img src="https://github.com/Ravulavarsha55/Ravulavarsha55/assets/152521234/01f9bd3b-5ae7-4918-a64a-0f10a9a388e4" alt="LinkedIn" width="30" style="display: inline-block"/></a> <a href="https://linkedin.com/in/varsha-ravula" target="_blank" title="Varsha's LinkedIn">linkedin.com/in/varsha-ravula</a>
+- <a href="mailto:ravulavarsha55@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" width="30" style="display: inline-block"/></a> <a href="mailto:ravulavarsha55@gmail.com" target="_blank" title="Varsha's Email">ravulavarsha55@gmail.com</a>
+- <a href="https://www.linkedin.com/in/varsha-ravula/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" width="30" style="display: inline-block"/></a> <a href="https://linkedin.com/in/varsha-ravula" target="_blank" title="Varsha's LinkedIn">linkedin.com/in/varsha-ravula</a>
 - <a href="https://www.salesforce.com/trailblazer/varsharavula"><img src="https://github.com/Ravulavarsha55/Ravulavarsha55/assets/152521234/664d5190-d417-4818-a9af-056305be43c4" alt="Trailblazer Profile" width="30" style="display: inline-block"/></a> <a href="https://www.salesforce.com/trailblazer/varsharavula" target="_blank" title="Varsha's Trailblazer Profile">www.salesforce.com/trailblazer/varsharavula</a>
 
-## 📊 GitHub Stats:
-<div align="center">
-  <a href="javascript:void(0);" title="Varsha's Most Used Languages"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravulavarsha55&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=donut" height="200" alt="Top Languages" /></a>
-  <a href="javascript:void(0);" title="Varsha's GitHub Stats"><img src="https://github-readme-stats.vercel.app/api?username=Ravulavarsha55&show_icons=true&theme=nightowl&hide_rank=true" height="200" alt="GitHub Stats"  /></a>
-</div>
+## 📊 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bacon-delight&theme=holi-theme)
 
-### ⚙️ &nbsp;GitHub Analytics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bacon-delight&count_private=true&show_icons=true&theme=github_dark)
 
-<p align="center">
-<a href="https://github.com/Ravulavarsha55">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ravulavarsha55&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ravulavarsha55&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+![Github Activity](https://activity-graph.herokuapp.com/graph?username=bacon-delight&theme=github&custom_title=Activity)
 
