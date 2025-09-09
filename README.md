@@ -2,7 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=RavulaVarsha55&style=for-the-badge&abbreviated=true)
 
-# Hi there, I'm Ravula Varsha , A Salesforce Developer 💻|| A Color Enthusiast🎨 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, I'm Ravula Varsha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+#  A Salesforce Developer 💻 || A Color Enthusiast 🎨 
 
 ## 🌟 About Me
 
@@ -31,7 +32,6 @@
                                 class="w-24 mr-2 mb-2" />
                             <img src="Assets/certifications/JavaScript.Developer.I.png" title="Javascript Developer 1"
                                 class="w-24 mr-2 mb-2" />
-                            <div class="flex flex-wrap">
                                 <img src="Assets/certifications/agentforce_specialist.png"
                                     title="Salesforce Agentforce Specialist" class="w-24 mr-2 mb-2" />
                                 <img src="Assets/certifications/AI.Associate.png" title="Salesforce AI Associate"
@@ -53,11 +53,11 @@
 
 - <a href="https://www.linkedin.com/in/varsha-ravula/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 
-- <a href="https://www.salesforce.com/trailblazer/varsharavula" src="https://img.shields.io/badge/Twitter-1DA1F2?&style=for-the-badge&logo=Twitter&logoColor=white" target="_blank" title="Varsha's Trailblazer Profile"> </a>
+- <a href="https://www.salesforce.com/trailblazer/varsharavula"<img align=left src="https://img.shields.io/badge/Twitter-1DA1F2?&style=for-the-badge&logo=Twitter&logoColor=white"  title="Varsha's Trailblazer Profile"> </a>
 
-## 📊 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bacon-delight&theme=holi-theme)
+### 📊 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bacon-delight&theme=holi-theme)
 
-## ⚡️ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bacon-delight&count_private=true&show_icons=true&theme=github_dark)
+### ⚡️ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bacon-delight&count_private=true&show_icons=true&theme=github_dark)
 
-## 🧐 ![Github Activity](https://activity-graph.herokuapp.com/graph?username=bacon-delight&theme=github&custom_title=Activity)
+### 🧐 ![Github Activity](https://activity-graph.herokuapp.com/graph?username=bacon-delight&theme=github&custom_title=Activity)
 
