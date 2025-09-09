@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=RavulaVarsha55&style=for-the-badge&abbreviated=true)
 
-# Hi there, I'm Ravula Varsha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> A Salesforce Developer | A Color Enthusiast
+# Hi there, I'm Ravula Varsha , A Salesforce Developer 💻|| A Color Enthusiast🎨 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## 🌟 About Me
 
@@ -29,10 +29,8 @@
                                 class="w-24 mr-2 mb-2" />
                             <img src="Assets/certifications/Programmer.I.png" title="Platform Developer 1"
                                 class="w-24 mr-2 mb-2" />
-                            
                             <img src="Assets/certifications/JavaScript.Developer.I.png" title="Javascript Developer 1"
                                 class="w-24 mr-2 mb-2" />
-                            <!-- Associate SF Certifications -->
                             <div class="flex flex-wrap">
                                 <img src="Assets/certifications/agentforce_specialist.png"
                                     title="Salesforce Agentforce Specialist" class="w-24 mr-2 mb-2" />
@@ -51,9 +49,11 @@
 
 ## 📫 Contact Me:
 
-- <a href="mailto:ravulavarsha55@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" align="left" alt="Email" width="30" style="display: inline-block"/></a> <a href="mailto:ravulavarsha55@gmail.com" target="_blank" title="Varsha's Email">ravulavarsha55@gmail.com</a>
-- <a href="https://www.linkedin.com/in/varsha-ravula/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" align="left" alt="LinkedIn" width="30" style="display: inline-block"/></a> <a href="https://linkedin.com/in/varsha-ravula" target="_blank" title="Varsha's LinkedIn">linkedin.com/in/varsha-ravula</a>
-- <a href="https://www.salesforce.com/trailblazer/varsharavula" target="_blank" title="Varsha's Trailblazer Profile">www.salesforce.com/trailblazer/varsharavula align="left" </a>
+- <a href="mailto:ravulavarsha55@gmail.com"><img align="left" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+
+- <a href="https://www.linkedin.com/in/varsha-ravula/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+
+- <a href="https://www.salesforce.com/trailblazer/varsharavula" src="https://img.shields.io/badge/Twitter-1DA1F2?&style=for-the-badge&logo=Twitter&logoColor=white" target="_blank" title="Varsha's Trailblazer Profile"> </a>
 
 ## 📊 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bacon-delight&theme=holi-theme)
 
