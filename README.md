@@ -28,13 +28,13 @@
   ![Banner](https://github.com/RavulaVarsha55/RavulaVarsha55/blob/main/Github%20bannner.png?raw=true)
 
 
-## 🔗 Other Repositories:
+<!--## 🔗 Other Repositories:
 
 <div align="center">
   <a href="https://github.com/RavulaVarsha55/Salesforce-Scenarios" title="SF Scenarios to Practice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravulavarsha55&repo=Salesforce-Scenarios&theme=highcontrast" height="150" alt="SF Scenarios to Practice" /></a>
   <a href="https://github.com/RavulaVarsha55/ApexSandbox.io-Solution" title="Apex Scenarios to Practice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ravulavarsha55&repo=ApexSandbox.io-Solution&theme=highcontrast" height="150" alt="Apex Scenarios to Practice"/></a>
 </div>
-
+-->
 ## 📫 Contact Me:
 
 - <a href="mailto:ravulavarsha55@gmail.com"><img align="left" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
@@ -43,8 +43,8 @@
 
 ## 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=RavulaVarsha55&theme=tokyonight)](https://git.io/streak-stats)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RavulaVarsha55&show_icons=true" />
+<!--<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RavulaVarsha55&show_icons=true" />-->
  <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RavulaVarsha55&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>-->
   <!--<a href="javascript:void(0);" title="Varsha's Most Used Languages"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavulaVarsha55&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=donut" height="200" alt="Top Languages" /></a>
   <a href="javascript:void(0);" title="Varsha's GitHub Stats"><img src="https://github-readme-stats.vercel.app/api?username=RavulaVarsha55&show_icons=true&theme=nightowl&hide_rank=true" height="200" alt="GitHub Stats"  /></a>
