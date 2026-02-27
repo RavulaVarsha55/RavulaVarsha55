@@ -42,6 +42,7 @@
 - <a href="https://www.linkedin.com/in/varsha-ravula/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 
 ## 📊 GitHub Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=RavulaVarsha55&theme=tokyonight)](https://git.io/streak-stats)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RavulaVarsha55&show_icons=true" />
  <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RavulaVarsha55&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>-->
